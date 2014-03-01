@@ -8,7 +8,7 @@
         "lib": "./lib"
     },
     "keywords": [
-        "cli, zsh, oh-my-zsh, mac, alias"
+        "cli, zsh, oh-my-zsh, mac, alias, aliaser"
     ],
     "repository": {
         "type": "git",
