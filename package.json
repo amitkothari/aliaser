@@ -1,6 +1,6 @@
 {
     "name": "aliaser",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "Aliaser is a CLI tool to manage aliases for commands in Mac OS X.",
     "bin": "./bin/aliaser.js",
     "main": "./bin/aliaser.js",
