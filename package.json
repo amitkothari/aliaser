@@ -1,0 +1,25 @@
+{
+    "name": "aliaser",
+    "version": "0.1.0",
+    "description": "Aliaser is a CLI tool to manage aliases for commands in Mac OS X.",
+    "bin": "./bin/aliaser.js",
+    "main": "./bin/aliaser.js",
+    "directories": {
+        "lib": "./lib"
+    },
+    "keywords": [
+        "cli, zsh, oh-my-zsh, mac, alias"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/amitkothari/aliser.git"
+    },
+    "readmeFilename": "README.md",
+    "author": "Amit Kothari <amit@amitkothari.com>",
+    "license": "MIT",
+    "dependencies": {
+        "underscore": "~1.6.0",
+        "colors": "~0.6.2",
+        "commander": "~2.1.0"
+    }
+}
