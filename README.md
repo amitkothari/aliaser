@@ -4,6 +4,8 @@ Aliaser is a CLI tool to manage aliases for commands in Mac OS X.
 
 **Please note - Aliaser is a work in progress and may have issues.**
 
+[![NPM](https://nodei.co/npm/aliaser.png?downloads=true&starts=true)](https://nodei.co/npm/aliaser/)
+
 ## Usage
 
 **Add new alias**
